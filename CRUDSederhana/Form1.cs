@@ -206,7 +206,7 @@ namespace CRUDSederhana
         }
 
 
-        // Fungsi untuk mengisi TextBox saat baris dipilih di DataGridView
+
         private void dgvMahasiswa_CellClick(object sender, DataGridViewCellEventArgs e)
         {
             if (e.RowIndex >= 0)
